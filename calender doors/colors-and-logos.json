@@ -1,0 +1,12 @@
+{
+   "data": {
+        "1":[
+            "#60e08b",
+            "..doors/door-1/assets/logo.png"
+        ],
+        "2": [
+            "#75a6d6",
+            "../doors/door-1/assets/logo.png"
+        ]
+   } 
+}

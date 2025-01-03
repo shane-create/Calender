@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "christmas-calender",
+  "version": "1.0.0",
+  "description": "A chritsmas calender in p5",
+  "type": "module",
+  "main": "sketch.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaila khan",
+  "license": "ISC"
+}
